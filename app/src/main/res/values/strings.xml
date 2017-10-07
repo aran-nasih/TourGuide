@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="take_me">TAKE ME</string>
+    <string name="hawaii">Hawaii</string>
+    <string name="hawaii_airline">www.hawaiianairlines.com</string>
+
+    <!--Honolulu Resturants-->
+    <string name="alan_wongs">"Alan Wong's"</string>
+    <string name="alan_wongs_detail">Famed chef Alan Wong presents his innovative, colorful Hawaiian fare in an upscale, 3rd-floor space.</string>
+    <string name="alan_wongs_address">1857 S King St, Honolulu, HI 96826, USA</string>
+    <string name="alan_wongs_phone">+1 808-949-1939</string>
+
+    <string name="duke_waikiki">"Duke's Waikiki"</string>
+    <string name="duke_waikiki_detail">"Popular option known for its beachfront location, surf 'n' turf, tiki vibe and umbrella drinks."</string>
+    <string name="duke_waikiki_address">2335 Kalakaua Ave #116, Honolulu, HI 96815, USA</string>
+    <string name="duke_waikiki_phone">+1 808-922-2268</string>
+
+    <string name="lucky_belly">Lucky Belly</string>
+    <string name="lucky_belly_detail">Reclaimed wood and brick walls adorn this hip ramen joint featuring a window for late-night takeout.</string>
+    <string name="lucky_belly_address">50 N Hotel St, Honolulu, HI 96817, USA</string>
+    <string name="lucky_belly_phone">+1 808-531-1888</string>
+
+    <!--Honolulu Ethnic Festival-->
+    <string name="okinawan">Okinawan Festival</string>
+    <string name="okinawan_detail">The Hui Okinawa Kobudo Taiko of Hilo perform at the 35th annual Okinawan Festival.</string>
+    <string name="okinawan_address">2805 Monsarrat Ave, Honolulu, HI 96815, USA</string>
+
+    <!--Honolulu Music Festival-->
+    <string name="revive">Revive The Live Hawaii</string>
+    <string name="revive_detail">The Revive the Live Music Festival is the largest concert of the year.</string>
+    <string name="revive_address">1522 Makaloa St, Honolulu, HI 96814, USA</string>
+
+
+    <!--Lahaina Resturants-->
+    <string name="lahaina_grill">Lahaina Grill</string>
+    <string name="lahaina_grill_detail">Historic, art-filled space for elegantly plated seafood, steak and Hawaiian specialties with wine.</string>
+    <string name="lahaina_grill_address">127 Lahainaluna Rd, Lahaina, HI 96761, USA</string>
+    <string name="lahaina_grill_phone">+1 808-667-5117</string>
+
+    <!--Hilo Resturants-->
+    <string name="ponds_hilo">Ponds Hilo</string>
+    <string name="ponds_hilo_detail">Upscale American cuisine in refined ambiance with views of ice and koi ponds, plus live music often.</string>
+    <string name="ponds_hilo_address">135 Kalanianaole Ave, Hilo, HI 96720, USA</string>
+    <string name="ponds_hilo_phone">+1 808-934-7663</string>
+
+    <!--Kauai Resturants-->
+    <string name="hukilau_lanai">Hukilau Lanai</string>
+    <string name="hukilau_lanai_detail">Inventive island flavors, fresh local seafood and a unique wine list along with nightly entertainment.</string>
+    <string name="hukilau_lanai_address">520 Aleka Loop, Kapaa, HI 96746, USA</string>
+    <string name="hukilau_lanai_phone">+1 808-822-0600</string>
+
+
+</resources>
